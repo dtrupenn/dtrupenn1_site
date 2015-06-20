@@ -1,0 +1,33 @@
+{% extends "template.html" %}
+
+{% block head %}
+  {{ super() }}
+    <link href="static/css/roboto.min.css" rel="stylesheet">
+    <link href="static/css/material.min.css" rel="stylesheet">
+    <link href="static/css/ripples.min.css" rel="stylesheet">
+{% endblock %}
+
+{% block content %}
+<!-- React Content -->
+<div id="content"></div>
+{% endblock %}
+
+{% block footer %}
+  {{ super() }}
+    <!-- Material Imports-->
+    <script src="static/js/ripples.min.js"></script>
+    <script src="static/js/material.min.js"></script>
+
+    <!-- React Imports -->
+    <script src="static/js/react.min.js"></script>
+    <script src="static/js/JSXTransformer.js"></script>
+    <script src="static/js/main.js"></script>
+
+    <script>
+        $(document).ready(function() {
+            // This command is used to initialize some elements and make them work properly
+            $.material.init();
+        });
+    </script>
+
+{% endblock %}
