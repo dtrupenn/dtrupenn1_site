@@ -1,4 +1,3 @@
 conf = {
-    'STATUS_VERSION': '0.1',
+    "STATUS_VERSION": "0.1",
 }
-
