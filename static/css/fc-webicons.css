@@ -1,0 +1,180 @@
+/* FC Webicons by Fairhead Creative http://fairheadcreative.com */
+
+.fc-webicon { display: inline-block; background-size: 100%; width: 30px; height: 30px; text-indent: -999em; text-align: left; -moz-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); box-shadow: 0 1px 0 rgba(0, 0, 0, 0.5); -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; margin-bottom: 5px; }
+.fc-webicon:hover { margin: -1px 0 1px; -moz-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.25); -webkit-box-shadow: 0 2px 0 rgba(0, 0, 0, 0.25); box-shadow: 0 2px 0 rgba(0, 0, 0, 0.25); }
+.fc-webicon.small { width: 20px; height: 20px; -moz-border-radius: 3px; -webkit-border-radius: 3px; border-radius: 3px; }
+.fc-webicon.large { width: 48px; height: 48px; -moz-border-radius: 6px; -webkit-border-radius: 6px; border-radius: 6px; }
+
+/* 500px */
+.no-svg .fc-webicon.f500px { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-500px-m.png"); }
+.no-svg .fc-webicon.f500px.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-500px"); }
+.no-svg .fc-webicon.f500px.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-500px-s.png"); }
+.svg .fc-webicon.f500px { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-500px.svg"); }
+
+/* About.me */
+.no-svg .fc-webicon.aboutme { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-aboutme-m.png"); }
+.no-svg .fc-webicon.aboutme.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-aboutme.png"); }
+.no-svg .fc-webicon.aboutme.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-aboutme-s.png"); }
+.svg .fc-webicon.aboutme { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-aboutme.svg"); }
+
+/* ADN (App.net) */
+.no-svg .fc-webicon.adn { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-adn-m.png"); }
+.no-svg .fc-webicon.adn.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-adn.png"); }
+.no-svg .fc-webicon.adn.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-adn-s.png"); }
+.svg .fc-webicon.adn { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-adn.svg"); }
+
+/* Android */
+.no-svg .fc-webicon.android { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-android-m.png"); }
+.no-svg .fc-webicon.android.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-android.png"); }
+.no-svg .fc-webicon.android.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-android-s.png"); }
+.svg .fc-webicon.android { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-android.svg"); }
+
+/* Apple */
+.no-svg .fc-webicon.apple { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-apple-m.png"); }
+.no-svg .fc-webicon.apple.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-apple.png"); }
+.no-svg .fc-webicon.apple.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-apple-s.png"); }
+.svg .fc-webicon.apple { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-apple.svg"); }
+
+/* Behance */
+.no-svg .fc-webicon.behance { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-behance-m.png"); }
+.no-svg .fc-webicon.behance.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-behance.png"); }
+.no-svg .fc-webicon.behance.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-behance-s.png"); }
+.svg .fc-webicon.behance { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-behance.svg"); }
+
+/* Bitbucket */
+.no-svg .fc-webicon.bitbucket { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-bitbucket-m.png"); }
+.no-svg .fc-webicon.bitbucket.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-bitbucket.png"); }
+.no-svg .fc-webicon.bitbucket.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-bitbucket-s.png"); }
+.svg .fc-webicon.bitbucket { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-bitbucket.svg"); }
+
+/* Blogger */
+.no-svg .fc-webicon.blogger { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-blogger-m.png"); }
+.no-svg .fc-webicon.blogger.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-blogger.png"); }
+.no-svg .fc-webicon.blogger.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-blogger-s.png"); }
+.svg .fc-webicon.blogger { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-blogger.svg"); }
+
+/* Coderwall */
+.no-svg .fc-webicon.coderwall { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-coderwall-m.png"); }
+.no-svg .fc-webicon.coderwall.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-coderwall.png"); }
+.no-svg .fc-webicon.coderwall.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-coderwall-s.png"); }
+.svg .fc-webicon.coderwall { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-coderwall.svg"); }
+
+/* Facebook */
+.no-svg .fc-webicon.facebook { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-facebook-m.png"); }
+.no-svg .fc-webicon.facebook.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-facebook.png"); }
+.no-svg .fc-webicon.facebook.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-facebook-s.png"); }
+.svg .fc-webicon.facebook { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-facebook.svg"); }
+
+/* Git */
+.no-svg .fc-webicon.git { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-git-m.png"); }
+.no-svg .fc-webicon.git.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-git.png"); }
+.no-svg .fc-webicon.git.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-git-s.png"); }
+.svg .fc-webicon.git { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-git.svg"); }
+
+/* Github */
+.no-svg .fc-webicon.github { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-github-m.png"); }
+.no-svg .fc-webicon.github.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-github.png"); }
+.no-svg .fc-webicon.github.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-github-s.png"); }
+.svg .fc-webicon.github { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-github.svg"); }
+
+/* Goodreads */
+.no-svg .fc-webicon.goodreads { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-goodreads-m.png"); }
+.no-svg .fc-webicon.goodreads.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-goodreads"); }
+.no-svg .fc-webicon.goodreads.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-goodreads-s.png"); }
+.svg .fc-webicon.goodreads { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-goodreads.svg"); }
+
+/* Google+ */
+.no-svg .fc-webicon.googleplus { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-googleplus-m.png"); }
+.no-svg .fc-webicon.googleplus.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-googleplus.png"); }
+.no-svg .fc-webicon.googleplus.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-googleplus-s.png"); }
+.svg .fc-webicon.googleplus { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-googleplus.svg"); }
+
+/* HTML5 */
+.no-svg .fc-webicon.html5 { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-html5-m.png"); }
+.no-svg .fc-webicon.html5.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-html5.png"); }
+.no-svg .fc-webicon.html5.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-html5-s.png"); }
+.svg .fc-webicon.html5 { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-html5.svg"); }
+
+/* LinkedIn */
+.no-svg .fc-webicon.linkedin { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-linkedin-m.png"); }
+.no-svg .fc-webicon.linkedin.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-linkedin.png"); }
+.no-svg .fc-webicon.linkedin.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-linkedin-s.png"); }
+.svg .fc-webicon.linkedin { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-linkedin.svg"); }
+
+/* Mail */
+.no-svg .fc-webicon.mail { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-mail-m.png"); }
+.no-svg .fc-webicon.mail.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-mail.png"); }
+.no-svg .fc-webicon.mail.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-mail-s.png"); }
+.svg .fc-webicon.mail { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-mail.svg"); }
+
+/* Mixi */
+.no-svg .fc-webicon.mixi { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-mixi-m.png"); }
+.no-svg .fc-webicon.mixi.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-mixi.png"); }
+.no-svg .fc-webicon.mixi.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-mixi-s.png"); }
+.svg .fc-webicon.mixi { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-mixi.svg"); }
+
+/* PocketApp */
+.no-svg .fc-webicon.pocket { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-pocketapp-m.png"); }
+.no-svg .fc-webicon.pocket.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-pocketapp.png"); }
+.no-svg .fc-webicon.pocket.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-pocketapp-s.png"); }
+.svg .fc-webicon.pocket { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-pocketapp.svg"); }
+
+/* Mercurial */
+.no-svg .fc-webicon.mercurial { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-mercurial-m.png"); }
+.no-svg .fc-webicon.mercurial.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-mercurial.png"); }
+.no-svg .fc-webicon.mercurial.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-mercurial-s.png"); }
+.svg .fc-webicon.mercurial { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-mercurial.svg"); }
+
+/* RSS */
+.no-svg .fc-webicon.rss { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-rss-m.png"); }
+.no-svg .fc-webicon.rss.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-rss.png"); }
+.no-svg .fc-webicon.rss.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-rss-s.png"); }
+.svg .fc-webicon.rss { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-rss.svg"); }
+
+/* Stack Overflow */
+.no-svg .fc-webicon.stackoverflow { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-stackoverflow-m.png"); }
+.no-svg .fc-webicon.stackoverflow.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-stackoverflow.png"); }
+.no-svg .fc-webicon.stackoverflow.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-stackoverflow-s.png"); }
+.svg .fc-webicon.stackoverflow { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-stackoverflow.svg"); }
+
+/* SVN */
+.no-svg .fc-webicon.svn { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-svn-m.png"); }
+.no-svg .fc-webicon.svn.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-svn.png"); }
+.no-svg .fc-webicon.svn.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-svn-s.png"); }
+.svg .fc-webicon.svn { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-svn.svg"); }
+
+/* Tumblr */
+.no-svg .fc-webicon.tumblr { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-tumblr-m.png"); }
+.no-svg .fc-webicon.tumblr.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-tumblr.png"); }
+.no-svg .fc-webicon.tumblr.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-tumblr-s.png"); }
+.svg .fc-webicon.tumblr { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-tumblr.svg"); }
+
+/* Twitter */
+.no-svg .fc-webicon.twitter { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-twitter-m.png"); }
+.no-svg .fc-webicon.twitter.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-twitter.png"); }
+.no-svg .fc-webicon.twitter.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-twitter-s.png"); }
+.svg .fc-webicon.twitter { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-twitter.svg"); }
+
+/* Vimeo */
+.no-svg .fc-webicon.vimeo { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-vimeo-m.png"); }
+.no-svg .fc-webicon.vimeo.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-vimeo.png"); }
+.no-svg .fc-webicon.vimeo.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-vimeo-s.png"); }
+.svg .fc-webicon.vimeo { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-vimeo.svg"); }
+
+/* Sina Weibo */
+.no-svg .fc-webicon.weibo { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-weibo-m.png"); }
+.no-svg .fc-webicon.weibo.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-weibo.png"); }
+.no-svg .fc-webicon.weibo.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-weibo-s.png"); }
+.svg .fc-webicon.weibo { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-weibo.svg"); }
+
+/* Windows */
+.no-svg .fc-webicon.windows { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-windows-m.png"); }
+.no-svg .fc-webicon.windows.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-windows.png"); }
+.no-svg .fc-webicon.windows.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-windows-s.png"); }
+.svg .fc-webicon.windows { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-windows.svg"); }
+
+/* YouTube */
+.no-svg .fc-webicon.youtube { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-youtube-m.png"); }
+.no-svg .fc-webicon.youtube.large { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-youtube.png"); }
+.no-svg .fc-webicon.youtube.small { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-youtube-s.png"); }
+.svg .fc-webicon.youtube { background: url("http://www.zurb.com/playground/playground/social-webicons/images/fc-webicon-youtube.svg"); }
